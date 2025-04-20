@@ -47,4 +47,3 @@ Authentication is delegated to the **User Service**, which validates tokens for 
 
 ---
 
-Let me know if you’d like to include a diagram, Swagger support section, or contribution guidelines!
